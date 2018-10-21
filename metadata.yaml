@@ -1,5 +1,5 @@
 _repo: Tales-for-Fifteen-Or-Imagination-and-Heart_2282
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -31,6 +31,7 @@ subjects:
 - !lcc 'PS'
 - !lcc 'PZ'
 - !lcsh 'New York (N.Y.) -- Juvenile fiction'
+- GITenberg
 tableOfContents: Imagination -- Heart.
 title: Tales for Fifteen; Or, Imagination and Heart
 url: http://www.gutenberg.org/ebooks/2282
